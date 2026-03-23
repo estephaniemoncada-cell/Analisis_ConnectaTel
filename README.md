@@ -10,8 +10,3 @@ El objetivo de la empresa es identificar patrones de uso, detectar comportamient
  ## Etapas del análisis realizadas:
 - Cargar → Explorar → Detectar problemas → Limpiar → Calcular estadísticas → Visualizar → Detectar outliers → Segmentar → Generar insights
 
-  ## ▶ Cómo abrir el notebool en Google Colab
-  - Haz click en el sigueinte botón:
-  [![Open_In_Colab](S7 Version-Estudiante-Project-ConnectaTel.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB)
-  -   GitHub → botón Open in Colab,
-  - Colab → File → Open notebook → GitHub.
