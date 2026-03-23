@@ -12,6 +12,6 @@ El objetivo de la empresa es identificar patrones de uso, detectar comportamient
 
   ## ▶ Cómo abrir el notebool en Google Colab
   - Haz click en el sigueinte botón:
-  [![Open_In_Colab](https://colab.research.google.com/github/estephaniemoncada-cell/Analisis_ConnectaTel/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB)
+  [![Open_In_Colab](https://colab.research.google.com/drive/1b8uYmMsOPwD4rB34rrEjbZSkgzaRr8Yt?usp=sharing)](URL_DEL_NOTEBOOK_EN_GITHUB)
   -   GitHub → botón Open in Colab,
   - Colab → File → Open notebook → GitHub.
