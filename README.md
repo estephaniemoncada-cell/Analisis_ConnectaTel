@@ -10,6 +10,8 @@ El objetivo de la empresa es identificar patrones de uso, detectar comportamient
  ## Etapas del análisis realizadas:
 - Cargar → Explorar → Detectar problemas → Limpiar → Calcular estadísticas → Visualizar → Detectar outliers → Segmentar → Generar insights
 
-  ## ▶ cómo ejecutar el notebook (por ejemplo, abrirlo en Google Colab)
-  -  GitHub → botón Open in Colab,
+  ## ▶ Cómo abrir el notebool en Google Colab
+  - Haz click en el sigueinte botón:
+  [![Open_In_Colab](https://colab.research.google.com/github/estephaniemoncada-cell/Analisis_ConnectaTel/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB)
+  -   GitHub → botón Open in Colab,
   - Colab → File → Open notebook → GitHub.
